@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zhirui-gao
 - 👀 I’m interested in deep learning  and 3D vision 
 - 🌱 I’m currently learning [Nerf](https://arxiv.org/pdf/2003.08934.pdf)(Neural Radiance Fields) for pose estimation.
-- 💞️ I’m looking to collaborate on ..
+- 💞️ I’m looking to collaborate on research and discussion about nerf
 - 📫 How to reach me : gzrer2018@gmail.com
 
 <!---
