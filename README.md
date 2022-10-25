@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zhirui-gao
-- 👀 I’m interested in deep learning  and 3D vision 
+- 👀 I’m interested in deep learning and 3D vision. And I used to be an acm-icpcer. 
 - 🌱 I’m currently learning [Nerf](https://arxiv.org/pdf/2003.08934.pdf)(Neural Radiance Fields) for pose estimation.
-- 💞️ I’m looking to collaborate on research and discussion about nerf
+- 💞️ I graduated from CUG with a bachelor's degree, and now I'm pursuing a master's degree at NUDT.
 - 📫 How to reach me : gzrer2018@gmail.com
 
 <!---
