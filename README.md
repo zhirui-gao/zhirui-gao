@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zhirui-gao
-- 👀 I’m interested in deep learning and 3D vision. And I used to be an acm-icpcer. 
-- 🌱 My interests mainly include Neural Radiance Fields and 3D Gaussian Spallting.
-- 💞️ I graduated from CUG with a bachelor's degree, and now I'm a Ph.D. student at NUDT(ChangSha).
+- 👀 My interests mainly include 3D vision and robotics. 
+- 🌱 I used to be  an algorithm contest player ICPC-regional 🥈. 
+- 💞️  I'm a Ph.D. student at NUDT(Changsha) and I graduated from CUG with a bachelor's degree
 - 📫 How to reach me: gzrer2018@gmail.com
 
 <!---
